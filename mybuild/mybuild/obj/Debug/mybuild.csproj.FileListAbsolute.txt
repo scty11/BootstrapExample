@@ -1,0 +1,6 @@
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\bin\mybuild.dll.config
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\bin\mybuild.dll
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\bin\mybuild.pdb
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\obj\Debug\mybuild.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\obj\Debug\mybuild.dll
+C:\Users\scottyboi\Documents\jquery\code\Bootstrap\materials\mybuild\mybuild\obj\Debug\mybuild.pdb
